@@ -15,14 +15,14 @@ body {
 }
 
 .container header {
-  color: #b2b2b2;
+  color: #ffff00;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
 header h2 {
-  font-size: 1.6rem;
+  font-size: rem;
 }
 
 header .column {
